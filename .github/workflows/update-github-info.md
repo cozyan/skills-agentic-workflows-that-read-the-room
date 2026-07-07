@@ -26,6 +26,9 @@ Read `notes/mona-notes.md` before making changes.
 Use these sources:
 - GitHub Blog: https://github.blog/latest/
 - GitHub Changelog: https://github.blog/changelog/
+- Awesome Copilot Workflows: https://awesome-copilot.github.com/workflows/
+
+Before drafting updates, web fetch https://awesome-copilot.github.com/workflows/ and use it as a source.
 
 Update `site/content/github-info.md` with concise, practical updates for readers.
 Include source context when the content comes from the GitHub Blog or GitHub Changelog.
